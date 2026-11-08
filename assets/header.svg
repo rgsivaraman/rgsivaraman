@@ -1,0 +1,30 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="300" viewBox="0 0 1200 300" role="img" aria-labelledby="title desc">
+  <title id="title">Sivaraman G — Software Engineer</title>
+  <desc id="desc">Backend and Data Solutions. Navy and cyan header with a subtle illustration connecting services, databases and cloud delivery.</desc>
+  <defs>
+    <linearGradient id="bg" x2="1" y2="1"><stop stop-color="#091426"/><stop offset="1" stop-color="#102d46"/></linearGradient>
+    <radialGradient id="glow"><stop stop-color="#22d3ee" stop-opacity=".13"/><stop offset="1" stop-color="#22d3ee" stop-opacity="0"/></radialGradient>
+    <pattern id="grid" width="32" height="32" patternUnits="userSpaceOnUse"><path d="M32 0H0V32" fill="none" stroke="#93c5fd" stroke-opacity=".045"/></pattern>
+  </defs>
+  <rect width="1200" height="300" rx="20" fill="url(#bg)"/>
+  <rect width="1200" height="300" rx="20" fill="url(#grid)"/>
+  <ellipse cx="1020" cy="140" rx="320" ry="240" fill="url(#glow)"/>
+  <rect x="58" y="57" width="40" height="4" rx="2" fill="#22d3ee"/>
+  <text x="58" y="151" font-family="Segoe UI,Arial,sans-serif" font-size="64" font-weight="700" letter-spacing="-2" fill="#f0f9ff">Sivaraman G</text>
+  <text x="60" y="198" font-family="Segoe UI,Arial,sans-serif" font-size="25" fill="#bae6fd">Software Engineer · Backend &amp; Data Solutions</text>
+  <text x="60" y="254" font-family="Segoe UI,Arial,sans-serif" font-size="13" letter-spacing="3" fill="#67e8f9">CODE · DATA · DELIVERY</text>
+  <g fill="none" stroke="#22d3ee" stroke-width="1.6">
+    <path d="M850 150H905Q920 150 920 135V91H980M920 150V214H1000" opacity=".5"/>
+    <path d="M1082 91H1120V214H1082" opacity=".25"/>
+    <rect x="760" y="112" width="90" height="76" rx="12" fill="#102d46"/>
+    <path d="m790 136-12 14 12 14m30-28 12 14-12 14m-11-31-8 34" stroke="#a5f3fc" stroke-width="2.5"/>
+    <rect x="980" y="55" width="102" height="72" rx="12" fill="#102d46"/>
+    <path d="M1004 83H1058M1004 99H1040" stroke="#a5f3fc" stroke-width="2.5"/>
+    <path d="M1000 197v36c0 19 82 19 82 0v-36" fill="#102d46"/>
+    <ellipse cx="1041" cy="197" rx="41" ry="13" fill="#133c55"/>
+    <path d="M1000 215c0 18 82 18 82 0" opacity=".5"/>
+    <circle cx="920" cy="150" r="4" fill="#67e8f9" stroke="none"/>
+    <circle cx="1120" cy="151" r="3" fill="#67e8f9" stroke="none"/>
+  </g>
+  <path d="M58 286H1142" stroke="#22d3ee" stroke-opacity=".15"/>
+</svg>
