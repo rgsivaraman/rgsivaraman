@@ -44,7 +44,7 @@ Additional experience with **Azure Databricks**, demand forecasting and Python a
 ## Public GitHub activity
 
 <a href="https://github.com/rgsivaraman?tab=overview">
-  <img src="https://github-readme-stats.vercel.app/api?username=rgsivaraman&amp;show_icons=true&amp;hide_rank=true&amp;hide_border=true&amp;bg_color=0b192c&amp;title_color=67e8f9&amp;text_color=e2e8f0&amp;icon_color=22d3ee&amp;border_radius=12&amp;custom_title=Public%20GitHub%20activity" alt="Public GitHub activity statistics for rgsivaraman. View the native GitHub activity through the link below if the card is unavailable." width="450" />
+  <img src="./assets/github-stats.svg" alt="Public GitHub snapshot: 18 public repositories, 1 follower, 2 following. As of 8 November 2026." width="650" />
 </a>
 
 Public repository activity is one part of my work; the skills above also reflect my professional experience.
